@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VisualAssistDarkTheme" GUID="{1675a90a-1de3-449b-a221-9119cea10d39}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="VisualAssistDark" GUID="{70313037-f54a-4aa5-bf46-3ad25ca37c22}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF2A2D2E" />
@@ -5042,7 +5042,7 @@
         <Foreground Type="CT_RAW" Source="FFDCDCDC" />
       </Color>
       <Color Name="Preprocessor Keyword">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
         <Foreground Type="CT_RAW" Source="FF569CD6" />
       </Color>
       <Color Name="Literal">
@@ -5050,8 +5050,8 @@
         <Foreground Type="CT_RAW" Source="FFB4CEA8" />
       </Color>
       <Color Name="preprocessor text">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD69D85" />
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FFD8A0DF" />
       </Color>
       <Color Name="HTML Attribute Value">
         <Background Type="CT_INVALID" Source="00000000" />
