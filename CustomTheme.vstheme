@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VisualAssistDark" GUID="{5321f983-80fc-4b77-a2bf-b289eda64c11}" BaseGUID="{b708b23f-77af-48e6-93f8-8e0ad3231f57}">
+  <Theme Name="VisualAssistDark" GUID="{38dd251e-3806-467d-8cea-d33fa6c85aff}" BaseGUID="{b708b23f-77af-48e6-93f8-8e0ad3231f57}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF2A2D2E" />
@@ -990,7 +990,7 @@
     </Category>
     <Category Name="Command Window" GUID="{ee1be240-4e81-4beb-8eea-54322b6b1bf5}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF2B2B2B" />
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="Inactive Selected Text">
@@ -4590,10 +4590,10 @@
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="IntelliTraceTImelineBreakpointBorder">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF2B2B2B" />
       </Color>
       <Color Name="IntelliTraceTimelineBreakpointFill">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF2B2B2B" />
       </Color>
       <Color Name="IntelliTraceTimelineExceptionBorder">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
@@ -4865,8 +4865,8 @@
         <Foreground Type="CT_RAW" Source="FFF0F0F0" />
       </Color>
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
-        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
+        <Background Type="CT_RAW" Source="FF2B2B2B" />
+        <Foreground Type="CT_RAW" Source="FFE3E3E3" />
       </Color>
       <Color Name="Inactive Selected Text">
         <Background Type="CT_RAW" Source="FF285B8E" />
@@ -4887,7 +4887,7 @@
     </Category>
     <Category Name="Package Manager Console" GUID="{f9d6bce6-c669-41db-8ee7-dd953828685b}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF2B2B2B" />
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="Selected Text">
@@ -5185,7 +5185,7 @@
       </Color>
       <Color Name="CurrentLineActiveFormat">
         <Background Type="CT_RAW" Source="FF000000" />
-        <Foreground Type="CT_RAW" Source="FF282828" />
+        <Foreground Type="CT_RAW" Source="FF2B2B2B" />
       </Color>
       <Color Name="outlining.collapsehintadornment">
         <Background Type="CT_RAW" Source="FF202C39" />
@@ -7721,8 +7721,8 @@
     </Category>
     <Category Name="Text Editor Text Manager Items" GUID="{58e96763-1d3b-4e05-b6ba-ff7115fd0b7b}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
-        <Foreground Type="CT_RAW" Source="FFBDB76B" />
+        <Background Type="CT_RAW" Source="FF2B2B2B" />
+        <Foreground Type="CT_RAW" Source="FFE3E3E3" />
       </Color>
       <Color Name="Visible Whitespace">
         <Background Type="CT_INVALID" Source="00000000" />
