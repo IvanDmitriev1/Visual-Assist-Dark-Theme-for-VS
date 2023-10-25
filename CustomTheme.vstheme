@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VisualAssistDark" GUID="{38dd251e-3806-467d-8cea-d33fa6c85aff}" BaseGUID="{b708b23f-77af-48e6-93f8-8e0ad3231f57}">
+  <Theme Name="VisualAssistDark (3)" GUID="{9ba56355-68d4-4c2d-9109-ea33d9b0cff9}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF2A2D2E" />
@@ -4168,7 +4168,7 @@
     </Category>
     <Category Name="GraphDocumentColors" GUID="{0cd5aa2b-ef23-4997-80b5-7d0e8fe5b312}">
       <Color Name="ExpandoButtonBackground">
-        <Background Type="CT_RAW" Source="FF0E639C" />
+        <Background Type="CT_RAW" Source="80FFFFFF" />
       </Color>
       <Color Name="LinkNavigatorButtonFillEndColor">
         <Background Type="CT_RAW" Source="FF0E639C" />
@@ -4183,7 +4183,7 @@
         <Background Type="CT_RAW" Source="FF0E639C" />
       </Color>
       <Color Name="MultiOperationButtonPressedBackground">
-        <Background Type="CT_RAW" Source="FF0E639C" />
+        <Background Type="CT_RAW" Source="90000000" />
       </Color>
       <Color Name="LinkNavigatorButtonHoverFillEndColor">
         <Background Type="CT_RAW" Source="FF1177BB" />
@@ -4192,13 +4192,13 @@
         <Background Type="CT_RAW" Source="FF1177BB" />
       </Color>
       <Color Name="MultiOperationButtonMouseOverBackground">
-        <Background Type="CT_RAW" Source="FF1177BB" />
+        <Background Type="CT_RAW" Source="20000000" />
       </Color>
       <Color Name="GlassHighlightEndColor">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="8FFFFF00" />
       </Color>
       <Color Name="GlassHighlightStartColor">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="3FFFFF00" />
       </Color>
       <Color Name="NoShapeSelectionBorder">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
@@ -4213,10 +4213,10 @@
         <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="SelectionBorder">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FFFCD400" />
       </Color>
       <Color Name="SelectionBrush">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FFFFFF00" />
       </Color>
       <Color Name="GraphGroupBorder">
         <Background Type="CT_RAW" Source="FFA5A6A9" />
@@ -4264,7 +4264,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="GraphGroupBackground">
-        <Background Type="CT_RAW" Source="FF1C1C1C" />
+        <Background Type="CT_RAW" Source="FFEEEEEE" />
       </Color>
       <Color Name="GlassBorderStartColor">
         <Background Type="CT_RAW" Source="FF808080" />
