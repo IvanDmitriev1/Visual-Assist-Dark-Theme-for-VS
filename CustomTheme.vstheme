@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VisualAssistDark (3)" GUID="{9ba56355-68d4-4c2d-9109-ea33d9b0cff9}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="VisualAssistDark (6)" GUID="{821ff3a5-98cc-4fe0-813c-453494a888ea}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF2A2D2E" />
@@ -2180,34 +2180,34 @@
         <Background Type="CT_RAW" Source="FF252526" />
       </Color>
       <Color Name="EnvironmentBackground">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientEnd">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientMiddle1">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientMiddle2">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="EnvironmentBackgroundTexture1">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="EnvironmentBackgroundTexture2">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="ToolWindowTabBorder">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF253030" />
       </Color>
       <Color Name="ToolWindowTabMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF303030" />
       </Color>
       <Color Name="ToolWindowTabSeparator">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF303030" />
       </Color>
       <Color Name="FileTabActiveGroupBackground">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -4006,10 +4006,10 @@
         <Background Type="CT_RAW" Source="FFD6D6D6" />
       </Color>
       <Color Name="ToolWindowContentTabGradientBegin">
-        <Background Type="CT_RAW" Source="FF1F1F1F" />
+        <Background Type="CT_RAW" Source="FF303030" />
       </Color>
       <Color Name="ToolWindowContentTabGradientEnd">
-        <Background Type="CT_RAW" Source="FF1F1F1F" />
+        <Background Type="CT_RAW" Source="FF303030" />
       </Color>
       <Color Name="ToolWindowValidationErrorBorder">
         <Background Type="CT_RAW" Source="FFF1BBBD" />
@@ -4865,7 +4865,7 @@
         <Foreground Type="CT_RAW" Source="FFF0F0F0" />
       </Color>
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF2B2B2B" />
+        <Background Type="CT_RAW" Source="FF252525" />
         <Foreground Type="CT_RAW" Source="FFE3E3E3" />
       </Color>
       <Color Name="Inactive Selected Text">
@@ -8087,7 +8087,7 @@
         <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="Background">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF303030" />
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="HighlightedSpan">
@@ -9255,7 +9255,7 @@
         <Foreground Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="PluginTabHeaderHoverBackgroundColor">
-        <Background Type="CT_RAW" Source="FF1C1C1C" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="PluginWordHighlightColor">
         <Foreground Type="CT_RAW" Source="FF1E1E1E" />
@@ -9447,7 +9447,7 @@
         <Background Type="CT_RAW" Source="19000000" />
       </Color>
       <Color Name="CardStrokeDefaultSolid">
-        <Background Type="CT_RAW" Source="FF1C1C1C" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="ControlStrongStrokeDefault">
         <Background Type="CT_RAW" Source="8BFFFFFF" />
@@ -9513,10 +9513,10 @@
         <Background Type="CT_RAW" Source="FF202020" />
       </Color>
       <Color Name="SolidBackgroundFillSecondary">
-        <Background Type="CT_RAW" Source="FF1C1C1C" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="SolidBackgroundFillTertiary">
-        <Background Type="CT_RAW" Source="FF282828" />
+        <Background Type="CT_RAW" Source="FF303030" />
       </Color>
       <Color Name="SolidBackgroundFillQuarternary">
         <Background Type="CT_RAW" Source="FF2C2C2C" />
@@ -9567,7 +9567,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="CardStrokeDefaultSolidAlt">
-        <Background Type="CT_RAW" Source="FF282828" />
+        <Background Type="CT_RAW" Source="FF303030" />
       </Color>
       <Color Name="ControlAltFillQuaternary">
         <Background Type="CT_RAW" Source="18000000" />
@@ -9603,13 +9603,13 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="StatusBarFillNoSolutionBackground">
-        <Background Type="CT_RAW" Source="9B000000" />
+        <Background Type="CT_RAW" Source="FF303030" />
       </Color>
       <Color Name="StatusBarFillNoSolutionText">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="StatusBarFillRestBackground">
-        <Background Type="CT_RAW" Source="9B000000" />
+        <Background Type="CT_RAW" Source="FF303030" />
       </Color>
       <Color Name="StatusBarFillRestText">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -10211,7 +10211,7 @@
     </Category>
     <Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
       <Color Name="EnvironmentBackground">
-        <Background Type="CT_RAW" Source="FF1C1C1C" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="ToolBarBackground">
         <Background Type="CT_RAW" Source="FF252525" />
