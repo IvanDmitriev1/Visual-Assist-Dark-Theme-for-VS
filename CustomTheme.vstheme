@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VisualAssistDark (6)" GUID="{821ff3a5-98cc-4fe0-813c-453494a888ea}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="VisualAssistDark (8)" GUID="{8cd96516-4406-40fb-aae9-8176d57c0796}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF2A2D2E" />
@@ -439,7 +439,7 @@
         <Foreground Type="CT_RAW" Source="80FFFFFF" />
       </Color>
       <Color Name="TabItemDisabled">
-        <Background Type="CT_RAW" Source="FF2D2D2D" />
+        <Background Type="CT_RAW" Source="FF252525" />
         <Foreground Type="CT_RAW" Source="80FFFFFF" />
       </Color>
       <Color Name="HyperlinkMouseOver">
@@ -2201,13 +2201,13 @@
         <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="ToolWindowTabBorder">
-        <Background Type="CT_RAW" Source="FF253030" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="ToolWindowTabMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF303030" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="ToolWindowTabSeparator">
-        <Background Type="CT_RAW" Source="FF303030" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="FileTabActiveGroupBackground">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -2533,10 +2533,10 @@
         <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="ToolWindowTabSelectedBorder">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="ToolWindowTabSelectedTab">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="Window">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
@@ -2733,7 +2733,7 @@
         <Background Type="CT_RAW" Source="FF2D2D2D" />
       </Color>
       <Color Name="FileTabProvisionalSelectedInactive">
-        <Background Type="CT_RAW" Source="FF2D2D2D" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="FileTabProvisionalSelectedInactiveBorder">
         <Background Type="CT_RAW" Source="FF2D2D2D" />
@@ -3049,7 +3049,7 @@
         <Background Type="CT_RAW" Source="FF2D2D2D" />
       </Color>
       <Color Name="FileTabHotGradientBottom">
-        <Background Type="CT_RAW" Source="FF2D2D2D" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="FileTabHotGradientTop">
         <Background Type="CT_RAW" Source="FF2D2D2D" />
@@ -10214,7 +10214,7 @@
         <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="ToolBarBackground">
-        <Background Type="CT_RAW" Source="FF252525" />
+        <Background Type="CT_RAW" Source="FF303030" />
       </Color>
       <Color Name="ToolBarBorder">
         <Background Type="CT_RAW" Source="0F000000" />
