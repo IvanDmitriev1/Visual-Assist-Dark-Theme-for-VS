@@ -11,7 +11,7 @@ jobs:
     
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4.1.1
     
     - name: Setup MSBuild
       uses: microsoft/setup-msbuild@v1.3.1
@@ -25,7 +25,8 @@ jobs:
       run: msbuild VisualAssistDarkTheme.csproj /p:Configuration=Release
 
     - name: Upload Artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4.0.0
+
       with:
         name: VisualAssistDarkTheme.vsix
         path: ./bin/Release/VisualAssistDarkTheme.vsix
