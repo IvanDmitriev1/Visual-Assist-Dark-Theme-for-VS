@@ -3,7 +3,7 @@ name: Build VS2022 Extension
 on:
   push:
     branches:
-      - Build-action 
+      - New-ui-support
 
 jobs:
   build:
