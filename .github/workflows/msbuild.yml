@@ -1,0 +1,23 @@
+name: Build VS2022 Extension
+
+on:
+  push:
+    branches:
+      - Build-action 
+
+jobs:
+  build:
+    runs-on: windows-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    
+    - name: Setup MSBuild
+      uses: microsoft/setup-msbuild@v1.1
+    
+    - name: Restore NuGet packages
+      run: nuget restore VisualAssistDarkTheme.sln
+    
+    - name: Build solution
+      run: msbuild /p:Configuration=Release VisualAssistDarkTheme.sln
