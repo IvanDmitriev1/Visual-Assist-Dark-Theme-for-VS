@@ -27,5 +27,5 @@ jobs:
     - name: Upload Artifact
       uses: actions/upload-artifact@v2
       with:
-        name: VisualAssistDarkTheme
+        name: VisualAssistDarkTheme.vsix
         path: ./bin/Release/VisualAssistDarkTheme.vsix
