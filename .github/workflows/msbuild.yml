@@ -14,10 +14,18 @@ jobs:
       uses: actions/checkout@v2
     
     - name: Setup MSBuild
-      uses: microsoft/setup-msbuild@v1.1
+      uses: microsoft/setup-msbuild@v1.3.1
+      with:
+        vs-prerelease: true
     
     - name: Restore NuGet packages
-      run: nuget restore VisualAssistDarkTheme.sln
+      run: nuget restore VisualAssistDarkTheme.csproj
     
     - name: Build solution
-      run: msbuild /p:Configuration=Release VisualAssistDarkTheme.sln
+      run: msbuild VisualAssistDarkTheme.csproj /p:Configuration=Release
+
+    - name: Upload Artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: VisualAssistDarkTheme
+        path: ./bin/Release/VisualAssistDarkTheme.vsix
