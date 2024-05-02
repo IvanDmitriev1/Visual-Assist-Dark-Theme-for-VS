@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VisualAssistDark (9)" GUID="{ed8312da-5978-499f-a3b9-e21ffc272dba}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="VisualAssistDark (11)" GUID="{1fe3474f-daae-4976-9e60-a1688ea8563f}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF2A2D2E" />
@@ -1763,18 +1763,18 @@
       </Color>
       <Color Name="MainWindowCloudEnvironmentActive">
         <Background Type="CT_RAW" Source="FF666666" />
-        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
+        <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="MainWindowCloudEnvironmentInactive">
         <Background Type="CT_RAW" Source="FF3C3C3C" />
-        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
+        <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="PanelHyperlinkInsideSelection">
-        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
+        <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="PanelHyperlinkInsideSelectionActive">
         <Background Type="CT_RAW" Source="FF424242" />
-        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
+        <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="StartPageTextDate">
         <Background Type="CT_RAW" Source="FFCCCCCC" />
@@ -1850,7 +1850,7 @@
         <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="WindowText">
-        <Background Type="CT_RAW" Source="FFCCCCCC" />
+        <Background Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="AutoHideTabMouseOverBorder">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -2257,7 +2257,7 @@
       </Color>
       <Color Name="MainWindowActiveCaption">
         <Background Type="CT_RAW" Source="FF3C3C3C" />
-        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
+        <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="PanelTitleBarText">
         <Background Type="CT_RAW" Source="FFCCCCCC" />
@@ -2278,7 +2278,7 @@
         <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="StartPageTextSubHeadingMouseOver">
-        <Background Type="CT_RAW" Source="FFCCCCCC" />
+        <Background Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="CommandBarCheckBox">
         <Background Type="CT_RAW" Source="FFC5C5C5" />
@@ -2305,7 +2305,7 @@
         <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ToolWindowText">
-        <Background Type="CT_RAW" Source="FFCCCCCC" />
+        <Background Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="ComboBoxItemMouseOverBackground">
         <Background Type="CT_RAW" Source="FF04395E" />
@@ -8279,24 +8279,24 @@
     <Category Name="TreeView" GUID="{92ecf08e-8b13-4cf4-99e9-ae2692382185}">
       <Color Name="DragOverItem">
         <Background Type="CT_RAW" Source="FF062F4A" />
-        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
+        <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="Glyph">
-        <Background Type="CT_RAW" Source="FFCCCCCC" />
+        <Background Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="SelectedItemInactive">
         <Background Type="CT_RAW" Source="FF37373D" />
-        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
+        <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="SelectedItemInactiveGlyph">
-        <Background Type="CT_RAW" Source="FFCCCCCC" />
+        <Background Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="SelectedItemInactiveGlyphMouseOver">
-        <Background Type="CT_RAW" Source="FFCCCCCC" />
+        <Background Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="Background">
         <Background Type="CT_RAW" Source="FF303030" />
-        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
+        <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="HighlightedSpan">
         <Background Type="CT_RAW" Source="FF04395E" />
@@ -8698,16 +8698,16 @@
     </Category>
     <Category Name="VisualStudioInstaller" GUID="{53212856-7528-403d-84e6-76820f4cef73}">
       <Color Name="BodyText">
-        <Background Type="CT_RAW" Source="FFCCCCCC" />
+        <Background Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="HeaderText">
-        <Background Type="CT_RAW" Source="FFCCCCCC" />
+        <Background Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="PivotText">
-        <Background Type="CT_RAW" Source="FFCCCCCC" />
+        <Background Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="SectionHeaderText">
-        <Background Type="CT_RAW" Source="FFCCCCCC" />
+        <Background Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="Background">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
