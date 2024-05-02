@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VisualAssistDark (74)" GUID="{4ac70bf2-657b-4200-a3dd-75d1d1adc8d9}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="VisualAssistDark (79)" GUID="{6261b6f9-f7a2-4bab-bf78-866f7724b4af}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF2A2D2E" />
@@ -9577,7 +9577,7 @@
         <Background Type="CT_RAW" Source="00FFFFFF" />
       </Color>
       <Color Name="ControlFillInputActive">
-        <Background Type="CT_RAW" Source="B31E1E1E" />
+        <Background Type="CT_RAW" Source="B21E1E1E" />
       </Color>
       <Color Name="ControlStrongFillDefault">
         <Background Type="CT_RAW" Source="8BFFFFFF" />
@@ -9604,7 +9604,7 @@
         <Background Type="CT_RAW" Source="00FFFFFF" />
       </Color>
       <Color Name="ControlAltFillSecondary">
-        <Background Type="CT_RAW" Source="19000000" />
+        <Background Type="CT_RAW" Source="1A000000" />
       </Color>
       <Color Name="ControlAltFillTertiary">
         <Background Type="CT_RAW" Source="0BFFFFFF" />
@@ -9616,7 +9616,7 @@
         <Background Type="CT_RAW" Source="00FFFFFF" />
       </Color>
       <Color Name="ControlOnImageFillDefault">
-        <Background Type="CT_RAW" Source="B31C1C1C" />
+        <Background Type="CT_RAW" Source="B21C1C1C" />
       </Color>
       <Color Name="ControlOnImageFillSecondary">
         <Background Type="CT_RAW" Source="FF1A1A1A" />
@@ -9778,13 +9778,13 @@
         <Background Type="CT_RAW" Source="FF303030" />
       </Color>
       <Color Name="ControlAltFillQuaternary">
-        <Background Type="CT_RAW" Source="18000000" />
+        <Background Type="CT_RAW" Source="12FFFFFF" />
       </Color>
       <Color Name="ControlFillActiveInput">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="B21E1E1E" />
       </Color>
       <Color Name="ControlFillQuaternary">
-        <Background Type="CT_RAW" Source="C2F3F3F3" />
+        <Background Type="CT_RAW" Source="0FFFFFFF" />
       </Color>
       <Color Name="HyperlinkFillDisabled">
         <Background Type="CT_RAW" Source="5C000000" />
