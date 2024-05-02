@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VisualAssistDark (61)" GUID="{104a7145-3bb8-4211-92dc-16168e27185d}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="VisualAssistDark (63)" GUID="{7c635dcd-21bd-4a70-8ce5-ca8e655ef369}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF2A2D2E" />
@@ -9724,7 +9724,7 @@
         <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="SolidBackgroundFillTertiary">
-        <Background Type="CT_RAW" Source="FF303030" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="SolidBackgroundFillQuarternary">
         <Background Type="CT_RAW" Source="FF2C2C2C" />
@@ -10442,7 +10442,7 @@
     </Category>
     <Category Name="EditorOverride" GUID="{656339d7-0e39-43e2-98aa-becc3f87ffa5}">
       <Color Name="PopupBackground">
-        <Background Type="CT_RAW" Source="FF303030" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="PopupBorder">
         <Background Type="CT_RAW" Source="FFA79CF1" />
