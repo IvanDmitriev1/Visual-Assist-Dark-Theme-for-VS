@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VisualAssistDark (97)" GUID="{fae047f3-0d95-446a-8176-ed68e4555ea8}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="VisualAssistDark (98)" GUID="{91631f35-730f-4bba-968b-2fd7b4b336f6}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF2A2D2E" />
@@ -10432,6 +10432,24 @@
       </Color>
       <Color Name="StatusBarFillRestBackground">
         <Background Type="CT_RAW" Source="FF303030" />
+      </Color>
+      <Color Name="EnvironmentBadge">
+        <Background Type="CT_RAW" Source="0FFFFFFF" />
+      </Color>
+      <Color Name="EnvironmentBorderInactive">
+        <Background Type="CT_RAW" Source="66757575" />
+      </Color>
+      <Color Name="EnvironmentIndicator">
+        <Background Type="CT_RAW" Source="66757575" />
+      </Color>
+      <Color Name="EnvironmentLayeredBackground">
+        <Background Type="CT_RAW" Source="4D3A3A3A" />
+      </Color>
+      <Color Name="EnvironmentLayeredBorder">
+        <Background Type="CT_RAW" Source="80000000" />
+      </Color>
+      <Color Name="EnvironmentLogo">
+        <Background Type="CT_RAW" Source="FFA79CF1" />
       </Color>
     </Category>
     <Category Name="TextVisualizer" GUID="{036d356b-f2fe-45f8-bceb-7fcc4daf2023}">
