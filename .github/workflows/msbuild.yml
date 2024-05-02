@@ -1,0 +1,32 @@
+name: Build VS2022 Extension
+
+on:
+  push:
+    branches:
+      - New-ui-support
+
+jobs:
+  build:
+    runs-on: windows-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4.1.1
+    
+    - name: Setup MSBuild
+      uses: microsoft/setup-msbuild@v1.3.1
+      with:
+        vs-prerelease: true
+    
+    - name: Restore NuGet packages
+      run: nuget restore VisualAssistDarkTheme.csproj
+    
+    - name: Build solution
+      run: msbuild VisualAssistDarkTheme.csproj /p:Configuration=Release
+
+    - name: Upload Artifact
+      uses: actions/upload-artifact@v4.0.0
+
+      with:
+        name: VisualAssistDarkTheme
+        path: ./bin/Release/VisualAssistDarkTheme.vsix
