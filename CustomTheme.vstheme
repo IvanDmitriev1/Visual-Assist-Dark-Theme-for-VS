@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="VisualAssistDark (5)" GUID="{5d1aab34-7d8a-4ffc-8be0-c7e3eff6eb1e}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="VisualAssistDark (9)" GUID="{33da0e54-0323-4836-b1ca-0c6d1cff0687}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF2A2D2E" />
@@ -3016,13 +3016,13 @@
         <Background Type="CT_RAW" Source="FF04395E" />
       </Color>
       <Color Name="CommandBarBorder">
-        <Background Type="CT_RAW" Source="505A5D5E" />
+        <Background Type="CT_RAW" Source="50FE0808" />
       </Color>
       <Color Name="CommandBarHoverOverSelectedIconBorder">
         <Background Type="CT_RAW" Source="505A5D5E" />
       </Color>
       <Color Name="CommandBarSelectedBorder">
-        <Background Type="CT_RAW" Source="505A5D5E" />
+        <Background Type="CT_RAW" Source="50FF0000" />
       </Color>
       <Color Name="TitleBarActiveText">
         <Background Type="CT_RAW" Source="FFFAFAFA" />
